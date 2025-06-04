@@ -38,6 +38,7 @@ streamlit run app.py
 - Type messages in chat input
 - Adjust settings via sidebar
 
+
 2. Local AI Processing
    
 ![deepseek_mermaid_20250604_38a9df](https://github.com/user-attachments/assets/e1f0e6e0-16b8-4667-8e1d-b10ecd737de6)
@@ -46,6 +47,7 @@ streamlit run app.py
 - System prompt sets behavior context
 - Temperature adjusts creativity
 - Full conversation history maintained
+
 
 ### 📊 Example Session
 
