@@ -32,7 +32,7 @@ streamlit run app.py
 ```
 
 
-🛠️ How It Works
+### 🛠️ How It Works
 1. User Interaction
 - Launch Streamlit interface
 - Type messages in chat input
@@ -51,15 +51,15 @@ streamlit run app.py
 
 ![image](https://github.com/user-attachments/assets/e2a054cc-6347-4398-8ec8-d5ef31f52691)
 
-###🛡️ Privacy & Security
+### 🛡️ Privacy & Security
 - No data sent to the cloud — everything runs locally
 - No API keys or external dependencies
 - Perfect for sensitive or private chats
 
-###🤝 Contribute
+### 🤝 Contribute
 - Found a bug or want to add features? Pull requests and issues are welcome!
 
-###📜 License
+### 📜 License
 - MIT License — free to use and modify
 
 
